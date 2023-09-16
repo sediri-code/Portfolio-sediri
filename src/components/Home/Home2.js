@@ -16,40 +16,31 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              Je me <span className="purple"> Présente </span> 
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              En tant qu'étudiant en ingénierie IT & Finance passionné par la technologie appliquée aux données financières et le développement d'applications fintech, je recherche actuellement un stage PFE de 6 mois.
               <br />
-              <br />I am fluent in classics like
+              <br />J'ai une éxperience en 
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> JavaScript (MERN,Astro.js) / Python,SQL,SPSS (Analyse des données) </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              Mes domaines d'intérêt sont la création de nouvelles technologies et produits web, ainsi que les domaines liés à <b className="purple">la Blockchain et Trading. &nbsp; </b>
+              
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              J'ai acquis des compétences dans divers domaines de la finance, notamment 
+              
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  le marché et les produits financiers, Finance Internationale, Marché des devises, l'économétrie, la gestion et la simulation de portefeuilles, les politiques financières de l'entreprise, ainsi que l'analyse du bilan comptable.
                 </b>
               </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              &nbsp; dans ces matières m'ont permis de développer une compréhension solide des aspects clés de la finance et de leur application dans le monde des affaires.
+              
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -60,14 +51,14 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1> RETROUVEZ MOI SUR</h1>
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/sediri-code"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,19 +66,10 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
+             
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/ahmed-sediri-8349a41b9/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -95,16 +77,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li>
+              
             </ul>
           </Col>
         </Row>

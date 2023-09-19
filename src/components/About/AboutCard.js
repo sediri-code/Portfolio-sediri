@@ -8,33 +8,30 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Ahmed Sediri</span>
-            from <span className="purple"> Tunis, Tunisia.</span>
-            <br /> I am a final year student pursuing an Integrated MSc (IMSc)
-            in Maths and Computing at BIT Mesra.
+            Je suis <span className="purple">Ahmed Sediri</span> étudiant en dernière année d'ingénierie en finance informatique et Fintech. 
+            <br />Je suis à la recherche d'une bonne opportunité pour mon stage de dernière année, d'une durée de 6 mois.
             <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
+            J'ai la capacité d'apprendre n'importe quoi et de terminer tout travail qui m'est confié de la manière correcte et dans les délais impartis.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Mis à part l'informatique et la finance, j'aime beaucoup faire d'autres activités !
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Football
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Cryptomonnaie
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Jeux Videos
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          
         </blockquote>
       </Card.Body>
     </Card>
